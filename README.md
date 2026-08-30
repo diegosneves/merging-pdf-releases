@@ -35,7 +35,7 @@ Acesse a aba [**Releases**](../../releases/latest) para baixar a versão mais re
 | Plataforma | Requisito mínimo |
 |---|---|
 | Linux | Ubuntu 20.04+ ou derivados Debian |
-| Windows | Windows 10 64-bit |
+| Windows | Windows 10 64-bit ou superior|
 
 ---
 
