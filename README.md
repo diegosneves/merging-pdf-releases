@@ -1,18 +1,18 @@
-# 📦 MergePDF — Releases Oficiais
+# 📄 MergePDF
+
+> ⚠️ **MVP em desenvolvimento** — o app é funcional, mas ainda há muitos pontos de melhoria planejados para as próximas versões.
+
+**MergePDF** é uma aplicação desktop com interface gráfica para **mesclar múltiplos arquivos PDF em um único documento**, de forma simples e intuitiva. Disponível para **Linux** e **Windows**.
+
+---
+
+## 📦 MergePDF — Releases Oficiais
 
 Repositório público de distribuição dos instaladores do **MergePDF**,
 uma aplicação desktop para mesclar arquivos PDF de forma simples e intuitiva.
 
 > ⚠️ Este repositório contém **apenas os instaladores**.
 > O código-fonte é mantido em repositório privado.
-
----
-
-## 📄 MergePDF
-
-> ⚠️ **MVP em desenvolvimento** — o app é funcional, mas ainda há muitos pontos de melhoria planejados para as próximas versões.
-
-**MergePDF** é uma aplicação desktop com interface gráfica para **mesclar múltiplos arquivos PDF em um único documento**, de forma simples e intuitiva. Disponível para **Linux** e **Windows**.
 
 ---
 
@@ -31,20 +31,6 @@ uma aplicação desktop para mesclar arquivos PDF de forma simples e intuitiva.
 
 ---
 
-## 📥 Download e Instalação
-
-Acesse a aba [**Releases**](../../releases/latest) para baixar a versão mais recente.
-
-### 🐧 Linux (Ubuntu / Debian)
-
-```bash
-sudo dpkg -i MergePDF-*-linux.deb
-```
-## 🪟 Windows 10/11
-
-Execute o arquivo .exe e siga o assistente de instalação.
-
----
 ## 🖥️ Como usar
 1. Abra o MergePDF
 2. Clique em Adicionar para selecionar os arquivos PDF
@@ -62,6 +48,21 @@ Execute o arquivo .exe e siga o assistente de instalação.
 | 🪟 Windows | Windows 10 64-bit ou superior |
 
 > Não é necessário instalar o Java separadamente — o runtime já está embutido no instalador.
+
+---
+
+## 📥 Download e Instalação
+
+Acesse a aba [**Releases**](../../releases/latest) para baixar a versão mais recente.
+
+### 🐧 Linux (Ubuntu / Debian)
+
+```bash
+sudo dpkg -i MergePDF-*-linux.deb
+```
+## 🪟 Windows 10/11
+
+Execute o arquivo .exe e siga o assistente de instalação.
 
 ---
 
